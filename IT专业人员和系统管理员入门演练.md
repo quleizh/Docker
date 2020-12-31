@@ -48,6 +48,11 @@
         apt-get update
         apt-get install -y figlet
         figlet "hello docker"
+			 ____   ___ ____   ___
+            |___ \ / _ \___ \ / _ \
+              __) | | | |__) | | | |
+             / __/| |_| / __/| |_| |
+            |_____|\___/_____|\___/
 
         exit
     
